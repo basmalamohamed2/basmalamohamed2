@@ -1,6 +1,6 @@
 # Hi there! 👋 - About Me
 
-I'm a passionate Computer Science student diving deep into mobile app development with **Flutter** and **Dart**! 💙 I also enjoy working with **Java** to build robust solutions. I thrive on turning creative ideas into functional apps, blending technology with imagination to create impactful projects. I love collaborating with teams on real-world applications, which has helped me strengthen my teamwork and communication skills.
+I'm a passionate Computer Science student diving deep into mobile app development with **Flutter** and **Dart**! 💙 I also enjoy working with **Java** to build robust solutions. I thrive on turning creative ideas into functional apps, blending technology with imagination to create impactful projects. 
 
 🌱 I’m on an exciting learning journey, exploring new tools and techniques through hands-on experience. My goal is to craft apps that are not only functional but also inspire joy and creativity.
 
